@@ -1,0 +1,29 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: firebrick;
+}
+h2 {
+    display: inline-block;
+    margin: 5px 10px;
+    font-size: 17px;
+    color: deepskyblue;
+}
+.attack {
+    padding: 25px;
+    display: inline-block;
+    width: 280px;
+}
+img {
+    display: inline-block;
+    width: 300px;
+}
+p {
+    display: inline-block;
+    width: 280px;
+    margin: 5px 10px;
+    text-align: justify;
+}
